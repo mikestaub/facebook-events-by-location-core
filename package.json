@@ -15,8 +15,7 @@
     "test": "./node_modules/.bin/gulp ci",
     "test-coverage": "./node_modules/.bin/gulp test",
     "test-publish": "./node_modules/.bin/gulp ci",
-    "publish-please": "publish-please",
-    "prepublish": "publish-please guard"
+    "publish-please": "publish-please"
   },
   "dependencies": {
     "axios": "^0.17.1"
