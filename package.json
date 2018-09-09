@@ -1,5 +1,5 @@
 {
-  "name": "facebook-events-by-location-core",
+  "name": "@mikestaub/facebook-events-by-location-core",
   "description": "Search Facebook events by location and proximity.",
   "keywords": [
     "facebook",
